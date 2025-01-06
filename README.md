@@ -9,13 +9,13 @@ This document explains the contents of the constructables folder.
 To be revised
 
 BooL&Co
-- Ships from BooL, Steve, etc
+- Ships from BooL, Steve, etc.
 
-Constuction
+Construction
 - New designs that are being worked on
 
 Design Studies
-- Varients of existing ships, or fun ideas that may not work
+- Variants of existing ships, or fun ideas that may not work
 
 Grand Fleet
 - Active and Reserve ships for campaign use
@@ -59,7 +59,7 @@ BB Metallgeld**
 BB Knyaz Stepan Arkadyevitch
 
 CA Cazzosfatt*
-- Needs final touches and LAMs firing points
+- Needs final touches and LAMS firing points
 
 CA Saint Alfonzo***
 - Under full construction
@@ -68,10 +68,10 @@ CA GanBooL*
 - Needs final touches and some superstructure
 
 CL Cazzoduro**
-- Needs final touches and moure armoring
+- Needs final touches and more armoring
 
 CL P-Argus*
-- Needs enginges and turrets redone
+- Needs engines and turrets redone
 
 DD Barzotto
 
@@ -98,10 +98,10 @@ CL Gotland***
 - Unfinished, potentially ineffective design.
 
 CL Strunz (Monitor)
-- Ineffective design (Stability issues)
+- Ineffective design (Stability issues)(Lies)
 
 DD Sfaccimm
-- Ineffective design (Stability issues).
+- Ineffective design (Stability issues)(Lies).
 
 DD Leprechaun
 - Ineffective design (Stability issues).
@@ -118,10 +118,10 @@ BB 2-PIECE
 - Another Richelieu-inspired battleship with 2 Pieces of the Resistance at the front (Or a similarly large railgun)
 
 BB PAC BROADSIDER
-- An asymetric battleship with a PAC on the starboard side (Malevolence-style)
+- An asymmetric battleship with a PAC on the starboard side (Malevolence-style)
 
 BC MISSILE BOAT 
-- A boat with huge missiles and LAMs
+- A boat with huge missiles and a LAMS
 
 DD/CL ORGAN
 - A small boat with the organ gun
