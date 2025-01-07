@@ -30,19 +30,28 @@ Steam
 ## Ship Classes
 
 ### BB - Battleships
+    Ships that form the main battle line (or front in the campaign)
 
 ### BC - Battlecruisers
+    Ships that have BB-grade armament, but reach excessive speeds (via hyrofoils and thrusters, etc)
 
 ### CV - Aircraft Carriers
+    Ships that are designed for the supplying and transport of aircraft
 
 ### CA - Heavy Cruisers
+    Cruisers with heavier armament
 
 ### CL - Light Cruisers
+    Cruisers with weaker armament
 
 ### DD - Destroyers
+    Smaller, cheaper ships for the early game
+
+### DE - Destroyer Escorts (Frigates)
+    The cheapest of the cheap
 
 ### SS - Submarines
-
+    Sub surface combatants
 
 ## Ship Registry
 
@@ -50,32 +59,39 @@ Steam
 
     For active use within a campaign. These ships should be prioritized for readiness and usage. Multiple ships are likely to be spawned.
 
-BB Wyoming Statement*
-- Needs final touches
 
-BB Metallgeld**
+BB 01 Nominative**
+- Main armament needs reworking
+
+BB 02 Knyaz Stepan Arkadyevitch
+
+BB 03 Metallgeld**
 - Needs super structure and final touches
 
-BB Knyaz Stepan Arkadyevitch
+BB 04 Wyoming Statement*
+- Needs final touches
 
-CA Cazzosfatt*
+BC 01 Ammazzagii**
+- Under construction
+
+CA 01 Cazzosfatt* (May rename to CA Ergative)
 - Needs final touches and LAMS firing points
 
-CA Saint Alfonzo***
-- Under full construction
-
-CA GanBooL*
+CA 02 GanBooL*
 - Needs final touches and some superstructure
 
-CL Cazzoduro**
-- Needs final touches and more armoring
+CA 03 Saint Alfonzo***
+- Under full construction
 
-CL P-Argus*
-- Needs engines and turrets redone
+CL 02 P-Argus*
+- Needs engines and turrets redone (Or missiles added)
 
-DD Barzotto
+CL 03 Silvio**
+- Needs to be reduced in length and armament to keep costs down
 
-DD Giurabbacco
+DD 01 Barzotto
+
+DD 02 Giurabbacco
 
 
 ### - = - = - Reserve - = - = -
@@ -88,13 +104,10 @@ BB Mountain***
 BB Kilkis***
 - Incomplete. Problematic design (Bow shape). May finish.
 
-BB Nominative*
-- Ineffective design that needs reworking (Volatile main armarment).
-
-CA Santa Maria*
+CA 01 Santa Maria*
 - Ineffective and costly design that needs reworking (Volatile main armament, weak secondary armament, oversized engines and turbine generators).
 
-CL Gotland***
+CL 01 Gotland***
 - Unfinished, potentially ineffective design.
 
 CL Strunz (Monitor)
@@ -103,7 +116,7 @@ CL Strunz (Monitor)
 DD Sfaccimm
 - Ineffective design (Stability issues)(Lies).
 
-DD Leprechaun
+DE Leprechaun
 - Ineffective design (Stability issues).
 
 Type A Transport
