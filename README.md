@@ -9,13 +9,13 @@ This document explains the contents of the constructables folder.
 To be revised
 
 BooL&Co
-- Ships from BooL, Steve, etc
+- Ships from BooL, Steve, etc.
 
-Constuction
+Construction
 - New designs that are being worked on
 
 Design Studies
-- Varients of existing ships, or fun ideas that may not work
+- Variants of existing ships, or fun ideas that may not work
 
 Grand Fleet
 - Active and Reserve ships for campaign use
@@ -115,10 +115,10 @@ CL 01 Gotland***
 - Unfinished, potentially ineffective design.
 
 CL Strunz (Monitor)
-- Ineffective design (Stability issues)
+- Ineffective design
 
 DE Sfaccimm
-- Ineffective design (Stability issues).
+- Ineffective design
 
 DE Leprechaun
 - Ineffective design (Stability issues).
@@ -135,10 +135,10 @@ BB 2-PIECE
 - Another Richelieu-inspired battleship with 2 Pieces of the Resistance at the front (Or a similarly large railgun)
 
 BB PAC BROADSIDER
-- An asymetric battleship with a PAC on the starboard side (Malevolence-style)
+- An asymmetric battleship with a PAC on the starboard side (Malevolence-style)
 
 BC MISSILE BOAT 
-- A boat with huge missiles and LAMs
+- A boat with huge missiles and a LAMS
 
 DD/CL ORGAN
 - A small boat with the organ gun
