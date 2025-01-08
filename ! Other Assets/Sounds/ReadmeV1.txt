@@ -1,0 +1,1 @@
+Place .wav and .ogg music or sound clips in this folder and include hashtags (e.g #myplaylist) in the name so you can reference it from sound blocks and the game's music system. A file can contain multiple hashtags in the name. You may need to restart the game to find new files in this folder.

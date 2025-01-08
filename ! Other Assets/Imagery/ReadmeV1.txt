@@ -1,0 +1,1 @@
+Place .jpg and .png imagery in this folder and include #background in the name to have it appear on the main menu. Hologram projectors and flags can also open imagery here by using the same hashtag. An image file can contain multiple hashtags in the name. You may need to restart the game to find new files in this folder.
