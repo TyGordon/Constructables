@@ -17,11 +17,14 @@ Construction
 Design Studies
 - Variants of existing ships, or fun ideas that may not work
 
+Grand Army
+- Active and Reserve land vehicles and forts for campaign use
+
 Grand Fleet
 - Active and Reserve ships for campaign use
 
-Misc, Old Constructs, Refit, Retired
-- To be reorganized
+Old/Older Constructs
+- Old designs that are no longer worked on or used
 
 Steam
 - Blueprints from the workshop
@@ -37,6 +40,9 @@ Steam
 
 ### CV - Aircraft Carriers
     Ships that are designed for the supplying and transport of aircraft
+
+### CVE - Aircraft Carrier Escorts
+    CVs on a smaller scale
 
 ### CA - Heavy Cruisers
     Cruisers with heavier armament
@@ -55,103 +61,83 @@ Steam
 
 ## Ship Registry
 
-### - = - = - Active Service - = - = -
+BB 01 Nominative (closed)
+- Main armament is volatile
 
-    For active use within a campaign. These ships should be prioritized for readiness and usage. Multiple ships are likely to be spawned.
+BB 02 Mountain (closed)
+- Construction halted
 
+BB 03 Knyaz Stepan Arkadyevitch (closed)
+- Main armament has disconnected autoloaders
 
-BB 01 Nominative**
-- Main armament needs reworking
+BB 04 Kilkis (closed)
+- Construction halted
 
-BB 02 Knyaz Stepan Arkadyevitch
-
-BB 03 Metallgeld**
+BB 05 Metallgeld (closed)
 - Needs super structure and final touches
 
-BB 04 Wyoming Statement*
+BB 06 Wyoming Statement (closed)
 - Needs final touches
 
+BB 07 Saint George/Andrew    <=== construction
+- Needs superstructure and more
 
-BC 01 Ammazzagii**
-- Under construction
+BB 08 Kasto Merta (Alias: Longelon)    <=== construction
+- Undergoing reblocking from scratch
 
+BB 09 Clittorio    <=== construction
+- Needs superstructure
 
-CA 01 Cazzosfatt* (May rename to CA Ergative)
-- Needs final touches and LAMs firing points
+---------------
 
-CA 02 GanBooL*
+BC 01 Ammazzagii (closed)
+- Needs final touches
+
+---------------
+
+CVE 01 Porcaerei    <=== construction
+- Needs finishing and internal systems
+
+---------------
+
+MO 01 Strunz (complete)
+- Completed
+
+---------------
+
+CA 01 Santa Maria (closed)
+- Outdated design
+
+CA 02 Cazzosfatt (Alias: Ergative)    <=== candidate
+- Undergoing complete reconstruction
+
+CA 03 GanBooL (closed)
 - Needs final touches and some superstructure
 
-CA 03 Saint Alfonzo***
-- Under full construction
+CA 04 Saint Alfonzo (closed)
+- Construction halted
 
+---------------
 
-CL 02 P-Argus*
-- Needs engines and turrets redone (Or missiles added)
+CL 01 Barzotto    <=== candidate
+- Final revisions
 
-CL 03 Silvio**
+CL 02 Gotland (closed)
+- Construction halted
+
+CL 03 P-Argus <=== candidate
+- Needs final touches from Ty
+
+CL 04 Cazzoduro (Alias: Silvio)    <=== candidate
 - Needs to be reduced in length and armament to keep costs down
 
+---------------
 
-DD 01 Barzotto
-
-DD 02 Giurabbacco
-
-
-### - = - = - Reserve - = - = -
-
-    Outdated/Unfinished designs that could be used or finished for spawning as unique ships in campaigns.
-
-BB Mountain***
-- Incomplete. Very large design.
-
-BB Kilkis***
-- Incomplete. Problematic design (Bow shape). May finish.
-
-CA 01 Santa Maria*
-- Ineffective and costly design that needs reworking (Volatile main armament, weak secondary armament, oversized engines and turbine generators).
-
-CL 01 Gotland***
-- Unfinished, potentially ineffective design.
-
-CL Strunz (Monitor)
-- Ineffective design
-
-DE Sfaccimm
-- Ineffective design
-
-DE Leprechaun
+DD 01 Leprechaun (closed)
 - Ineffective design (Stability issues).
 
-Type A Transport
-- Not for military service, may use for cruises.
+DE 02 Sfaccimm    <=== complete
+- Completed
 
-
-### - = - = - Reserve - = - = -
-
-    New ideas that have not been started.
-
-BB 2-PIECE
-- Another Richelieu-inspired battleship with 2 Pieces of the Resistance at the front (Or a similarly large railgun)
-
-BB PAC BROADSIDER
-- An asymmetric battleship with a PAC on the starboard side (Malevolence-style)
-
-BC MISSILE BOAT 
-- A boat with huge missiles and a LAMS
-
-DD/CL ORGAN
-- A small boat with the organ gun
-
-SS SKIMMER
-- A fast submarine that skims the water and provides detection and some small missiles.
-
-LARGE PLANE
-- A large 4-engine prop plane with 2 or 3 turreted guns
-
-#### Notes
-    * Further work or refit needed
-    ** Significant work left 
-    *** Mostly Incomplete
-
-
+DD 03 Giurabbacco    <=== complete
+- Completed
