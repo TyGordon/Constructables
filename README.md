@@ -8,26 +8,50 @@ This document explains the contents of the constructables folder.
 
 To be revised
 
-BooL&Co
-- Ships from BooL, Steve, etc.
+Archived
+ - Miscellaneous designs which don't fit into classifications of utility
 
 Construction
 - New designs that are being worked on
 
-Design Studies
+Design Studies (Doesn't exist presently)
 - Variants of existing ships, or fun ideas that may not work
-
-Grand Army
-- Active and Reserve land vehicles and forts for campaign use
 
 Grand Fleet
 - Active and Reserve ships for campaign use
 
-Old/Older Constructs
+Grand Fleet\Aircraft
+- Active and Reserve aircraft for campaign use
+
+Grand Fleet\Land
+- Active and Reserve land vehicles for campaign use
+
+Grand Fleet\Structures
+- Active and Reserve installations for campaign use
+
+Outdated
 - Old designs that are no longer worked on or used
 
+Outdated\Limbo
+- Old designs that never made it to review
+
+Outdated\Limbo\Shadow Realm
+- Designs which have aged enough that time begins to become a meaningless concept for them
+
+Rejected
+ - Designs which were explicitly deemed ineffective
+
+Review
+ - Designs which have completed initial construction, and are ready to be refined for campaign use
+
 Steam
-- Blueprints from the workshop
+ - Blueprints from the workshop
+
+Transfers
+ - Designs from friends
+
+*\Historical
+ - Old designs which have since been updated
 
 
 ## Ship Classes
