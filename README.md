@@ -9,7 +9,7 @@ This document explains the contents of the constructables folder.
 To be revised
 
 Archived
- - Miscellaneous designs which don't fit into classifications of utility
+- Miscellaneous designs which don't fit into classifications of utility
 
 Construction
 - New designs that are being worked on
@@ -38,8 +38,10 @@ Outdated\Limbo
 Outdated\Limbo\Shadow Realm
 - Designs which have aged enough that time begins to become a meaningless concept for them
 
-Rejected
+Outdated\Rejected
  - Designs which were explicitly deemed ineffective
+
+Outdated\
 
 Review
  - Designs which have completed initial construction, and are ready to be refined for campaign use
