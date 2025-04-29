@@ -111,8 +111,8 @@ BB 07 Saint George/Andrew    <=== construction
 BB 08 Kasto Merta (Alias: Longelon)    <=== construction
 - Undergoing reblocking from scratch
 
-BB 09 Clittorio    <=== construction
-- Needs superstructure
+BB 09 Clittorio    <=== complete
+- Needs torpedo net finalization.
 
 ---------------
 
@@ -131,25 +131,25 @@ MO 01 Strunz (complete)
 
 ---------------
 
-CA 01 Santa Maria (closed)
-- Outdated design
+CA 01 Santa Maria (complete)
+- Completed
 
 CA 02 Cazzosfatt (Alias: Ergative)    <=== candidate
 - Undergoing complete reconstruction
 
-CA 03 GanBooL (closed)
-- Needs final touches and some superstructure
+CA 03 GanBooL
+- Needs turret caps replaced
 
 CA 04 Saint Alfonzo (closed)
 - Construction halted
 
 ---------------
 
-CL 01 Barzotto    <=== candidate
-- Final revisions
+CL 01 Barzotto (closed)   <=== candidate
+- Needs fuel engines, and possibly some refactoring.
 
-CL 02 Gotland (closed)
-- Construction halted
+CL 02 Gotland (complete)
+- Completed
 
 CL 03 P-Argus <=== candidate
 - Needs final touches from Ty
@@ -159,11 +159,11 @@ CL 04 Cazzoduro (Alias: Silvio)    <=== candidate
 
 ---------------
 
-DD 01 Leprechaun (closed)
-- Ineffective design (Stability issues).
+DD 01 Leprechaun (complete)
+- Recently updated. May need to be retired and replaced.
 
 DE 02 Sfaccimm    <=== complete
-- Completed
+- Completed. May need to be retired and replaced.
 
 DD 03 Giurabbacco    <=== complete
-- Completed
+- Completed. Will likely be de-keeled.
