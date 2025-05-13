@@ -172,10 +172,10 @@ CL 03 Giurabbacco    <=== under retrofit
 
 ---------------
 
-DD 01 Leprechaun (complete)
+DE 01 Leprechaun (complete)
 - Recently updated. May need to be retired and replaced.
 
-DE 02 Sfaccimm    <=== complete
+DD 02 Sfaccimm    <=== complete
 - Completed. May need to be retired and replaced.
 
 ---------------
