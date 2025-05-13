@@ -14,7 +14,7 @@ Archived
 Construction
 - New designs that are being worked on
 
-Design Studies (Doesn't exist presently)
+Construction\Design Studies
 - Variants of existing ships, or fun ideas that may not work
 
 Grand Fleet
@@ -30,7 +30,7 @@ Grand Fleet\Structures
 - Active and Reserve installations for campaign use
 
 Outdated
-- Old designs that are no longer worked on or used
+- Old designs that are not presetnly maintained to an adequate standard
 
 Outdated\Limbo
 - Old designs that never made it to review
@@ -39,9 +39,7 @@ Outdated\Limbo\Shadow Realm
 - Designs which have aged enough that time begins to become a meaningless concept for them
 
 Outdated\Rejected
- - Designs which were explicitly deemed ineffective
-
-Outdated\
+ - Designs which were explicitly deemed inadequate
 
 Review
  - Designs which have completed initial construction, and are ready to be refined for campaign use
@@ -53,7 +51,7 @@ Transfers
  - Designs from friends
 
 *\Historical
- - Old designs which have since been updated
+ - Archived versions of designs in the containing folder
 
 
 ## Ship Classes
@@ -64,11 +62,17 @@ Transfers
 ### BC - Battlecruisers
     Ships that have BB-grade armament, but reach excessive speeds (via hyrofoils and thrusters, etc)
 
+### B - Battleships
+    Ships that form the main battle line (or front in the campaign)
+
 ### CV - Aircraft Carriers
     Ships that are designed for the supplying and transport of aircraft
 
 ### CVE - Aircraft Carrier Escorts
     CVs on a smaller scale
+
+### CB - Super Cruisers
+    Larger Heavy Cruisers
 
 ### CA - Heavy Cruisers
     Cruisers with heavier armament
@@ -79,8 +83,14 @@ Transfers
 ### DD - Destroyers
     Smaller, cheaper ships for the early game
 
-### DE - Destroyer Escorts (Frigates)
-    The cheapest of the cheap
+### DE - Destroyer Escorts
+    Destroyers which are lighter and faster.
+
+### FS - Frigate(/Corvette)
+    Especially small cheap ships.
+
+### P(/PT) - Patrol Boats
+    Anything too small to be a Frigate/Corvette
 
 ### SS - Submarines
     Sub surface combatants
@@ -135,10 +145,10 @@ CA 01 Santa Maria (complete)
 - Completed
 
 CA 02 Cazzosfatt (Alias: Ergative)    <=== candidate
-- Undergoing complete reconstruction
+- Reconstruction nearly finished.
 
-CA 03 GanBooL
-- Needs turret caps replaced
+CA 03 GanBooL (closed)
+- Turret caps never got replaced. Got rejected.
 
 CA 04 Saint Alfonzo (closed)
 - Construction halted
@@ -152,18 +162,28 @@ CL 02 Gotland (complete)
 - Completed
 
 CL 03 P-Argus <=== candidate
-- Needs final touches from Ty
+- Needs final touches from Tyrone
 
-CL 04 Cazzoduro (Alias: Silvio)    <=== candidate
-- Needs to be reduced in length and armament to keep costs down
+CL 04 Cazzoduro (Alias: Silvio) (closed)
+- Got rejected.
+
+CL 03 Giurabbacco (complete)
+- Thought complete. Wasn't. Got completed.
 
 ---------------
 
-DD 01 Leprechaun (complete)
+DE 01 Leprechaun (complete)
 - Recently updated. May need to be retired and replaced.
 
-DE 02 Sfaccimm    <=== complete
+DD 02 Sfaccimm    <=== complete
 - Completed. May need to be retired and replaced.
 
-DD 03 Giurabbacco    <=== complete
-- Completed. Will likely be de-keeled.
+---------------
+
+FS 01 Huron (closed)
+- Completed hastily. Rejected.
+
+---------------
+
+PT 01 Boat (unknown status)
+- Completed. In Limbo for some reason.
