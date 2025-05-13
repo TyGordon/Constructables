@@ -167,8 +167,8 @@ CL 03 P-Argus <=== candidate
 CL 04 Cazzoduro (Alias: Silvio) (closed)
 - Got rejected.
 
-CL 03 Giurabbacco    <=== under retrofit
-- Thought complete. Wasn't. Currently getting de-keeled, reblocked, Fuel-engined, and re-armored.
+CL 03 Giurabbacco (complete)
+- Thought complete. Wasn't. Got completed.
 
 ---------------
 
