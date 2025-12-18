@@ -29,29 +29,32 @@ Grand Fleet\Land
 Grand Fleet\Structures
 - Active and Reserve installations for campaign use
 
-Outdated
-- Old designs that are not presetnly maintained to an adequate standard
+Outmoded
+- Old designs that are not presently maintained to an adequate standard
 
-Outdated\Limbo
-- Old designs that never made it to review
+Outmoded\Limbo
+- Old designs that never made it to review, but were not explicitly rejected
 
-Outdated\Limbo\Shadow Realm
-- Designs which have aged enough that time begins to become a meaningless concept for them
+Outmoded\Limbo\Shadow Realm
+- Designs of an age so great that all memory has long faded away, and time for them has become a concept without meaning
 
-Outdated\Rejected
- - Designs which were explicitly deemed inadequate
+Outmoded\Rejected
+- Designs which were explicitly deemed inadequate
+
+Outmoded\Rejected\Completed
+- Complete designs which were explicitly deemed inadequate
 
 Review
- - Designs which have completed initial construction, and are ready to be refined for campaign use
+- Designs which have completed initial construction, and are ready to be refined for campaign use
 
 Steam
- - Blueprints from the workshop
+- Blueprints from the workshop
 
 Transfers
- - Designs from friends
+- Designs from friends
 
 *\Historical
- - Archived versions of designs in the containing folder
+- Archived versions of designs in the containing folder
 
 
 ## Ship Classes
@@ -97,46 +100,26 @@ Transfers
 
 ## Ship Registry
 
-BB 01 Nominative (closed)
-- Main armament is volatile
-
-BB 02 Mountain (closed)
-- Construction halted
-
-BB 03 Knyaz Stepan Arkadyevitch (closed)
+BB 01 Porco Principino (pending review)
 - Main armament has disconnected autoloaders
 
-BB 04 Kilkis (closed)
-- Construction halted
-
-BB 05 Metallgeld (closed)
-- Needs super structure and final touches
-
-BB 06 Wyoming Statement (closed)
-- Needs final touches
-
-BB 07 Saint George/Andrew    <=== construction
-- Needs superstructure and more
-
-BB 08 Kasto Merta (Alias: Longelon)    <=== construction
-- Undergoing reblocking from scratch
-
-BB 09 Clittorio    <=== complete
+BB 02 Clittorio    <=== complete
 - Needs torpedo net finalization.
 
 ---------------
 
-BC 01 Ammazzagii (closed)
-- Needs final touches
+BC
 
 ---------------
 
-CVE 01 Porcaerei    <=== construction
-- Needs finishing and internal systems
+CVE
 
 ---------------
 
 MO 01 Strunz (complete)
+- Completed
+
+MO 02 Stronzo (complete)
 - Completed
 
 ---------------
@@ -147,28 +130,24 @@ CA 01 Santa Maria (complete)
 CA 02 Cazzosfatt (Alias: Ergative)    <=== candidate
 - Reconstruction nearly finished.
 
-CA 03 GanBooL (closed)
-- Turret caps never got replaced. Got rejected.
+---------------
 
-CA 04 Saint Alfonzo (closed)
-- Construction halted
+C 01 Barzotto (complete)
+- Completed
+
+C 02 Gotland (complete)
+- Completed
 
 ---------------
 
-CL 01 Barzotto (closed)   <=== candidate
-- Needs fuel engines, and possibly some refactoring.
-
-CL 02 Gotland (complete)
+CL 01 Nelviii
 - Completed
 
-CL 03 P-Argus <=== candidate
-- Needs final touches from Tyrone
-
-CL 04 Cazzoduro (Alias: Silvio) (closed)
-- Got rejected.
-
-CL 03 Giurabbacco (complete)
+CL 02 Giurabbacco (complete)
 - Thought complete. Wasn't. Got completed.
+
+CL 03 Flevel (complete)
+- Completed.
 
 ---------------
 
@@ -180,10 +159,8 @@ DD 02 Sfaccimm    <=== complete
 
 ---------------
 
-FS 01 Huron (closed)
-- Completed hastily. Rejected.
+FS
 
 ---------------
 
-PT 01 Boat (unknown status)
-- Completed. In Limbo for some reason.
+PT
